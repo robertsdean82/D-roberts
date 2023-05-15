@@ -1,0 +1,14 @@
+new-item test.txt # creates new item on windows
+ctrl-s # saves
+ctrl-z # undo
+ctrl-c # copy
+ctrl-v # paste
+ctrl-a # highlight everyone
+
+
+-- common -- add  -- commit  -- pull -- push --
+
+Git is used for version control
+Git is important for future work experience
+
+yep
